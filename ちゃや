@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>ちゃやファンのためのサイト</title>
+  <nav class="globalNav"><a href="https://store.line.me/stickershop/product/12476502/ja" target="blank">ちゃや公式LINEスタンンプ登場！！</a></nav>
+</head>
+<body>
+  <h1>ちゃや公式ファンクラブ</h1>
+  <img src="logo.png" alt="N予備校" width="230" height="400">
+  <ul>
+    <li>佐藤翔太</li>
+    <li>ちゃや</li>
+
+  </ul>
+</body>
+</html>
